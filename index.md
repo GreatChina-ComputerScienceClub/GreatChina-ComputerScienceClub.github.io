@@ -1,123 +1,48 @@
 ---
 layout: default
 ---
+![img](http://img2.ph.126.net/vqiNHd7ODCMVWOOgNRopTA==/6608226511145252294.jpg)
+## ABOUT THIS COURSE
+This self-paced course will discuss the major ideas used today in the junior computer science field, including basic computer programming cocept, object oriented programming, algorithms, etc. As a result, you will learn how to do basic computer programming and how to develop a independent project. Along the way we will also touch on how programming languages are designed, programming language semantics, and why there are so many different kinds of programming languages.  
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The course lectures will be presented offline(current) and online(to be added). To help you master the material, there will be in-lecture questions to answer, quizzes. There will also be homework in the form of exercises that ask you to show a sequence of logical steps needed to derive a specific result.  
 
-[Link to another page](./another-page.html).
+The programming language we mainly uses is Java. The advanced course would contains Kotlin and other languages.  
 
-There should be whitespace between paragraphs.
+## WHY STUDY COMPUTER SCIENCE
+Everything in our life nowadays has something to do with computer. When you are writing a document, you are using the computer software. When you are watching videos on your phone, you are using Android or IOS apps. Apparently, we cannot live without computer technologies. In order to find something deep inside the computer, you need to learn how computer works and how developers design them.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Everything that computers do is the result of some program, and all of the millions of programs in the world are written in one of the many thousands of programming languages that have been developed over the last 60 years.
 
-# Header 1
+Now, you know how essential it is to learn computer science. Join us immediately!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## PREREQUISITES
+No prerequisites are needed for this course.
 
-## Header 2
+## COURSE STAFF
+Andy Li  
+High school student at Chengdu No.7 High School. Programming experience for four years. Familiar to OOP, algorithms, and many other fields. Acting leader of GreatChina computer sicence club. See more on [EULIR](https://eulir.github.io/about/)  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## COURSE CATALOGUE
+ [Computer Science Club curriculum](https://github.com/EULIR/Computer-Science-Club-curriculum)
+ - [OOP](https://github.com/EULIR/Computer-Science-Club-curriculum/tree/master/OOP) Object oriented Programming course 
+   - [DOWNLOAD](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/OOP/OOP.zip?raw=true)
+  
+ - [Recusion](https://github.com/EULIR/Computer-Science-Club-curriculum/tree/master/Recusion) Recusion algorithm course
+   - [DOWNLOAD](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/Recusion/Recursion.zip?raw=true)
+  
+ - [Sort](https://github.com/EULIR/Computer-Science-Club-curriculum/tree/master/Sort) Sort algorithm course
+   - [DOWNLOAD](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/Sort/Sort.zip?raw=true)
+  
+ - [Array](https://github.com/EULIR/Computer-Science-Club-curriculum/tree/master/Array) Array sturcture course
+   - [DOWNLOAD](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/Array/Array.zip?raw=true)
+  
+ - [Basic Structure](https://github.com/EULIR/Computer-Science-Club-curriculum/tree/master/Basic%20Structure) Three basic structure course
+   - [DOWNLOAD](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/Basic%20Structure/Basic%20Structure.zip?raw=true)
 
-### Header 3
+## HOW TO ENROLL
+You are supposed to [mail me](mailto:eulir_cs@163.com) and register your infomation if you are new to this club.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## LICENSE
+EULIR/Computer-Science-Club-curriculum is licensed under the  
+[MIT License](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/LICENSE)

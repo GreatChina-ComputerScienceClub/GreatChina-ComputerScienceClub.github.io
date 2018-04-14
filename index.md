@@ -3,11 +3,11 @@ layout: default
 ---
 ![img](http://img2.ph.126.net/vqiNHd7ODCMVWOOgNRopTA==/6608226511145252294.jpg)
 ## ABOUT THIS COURSE
-This self-paced course will discuss the major ideas used today in the junior computer science field, including basic computer programming cocept, object oriented programming, algorithms, etc. As a result, you will learn how to do basic computer programming and how to develop a independent project. Along the way we will also touch on how programming languages are designed, programming language semantics, and why there are so many different kinds of programming languages.  
+This self-paced course will discuss the major ideas used today in the junior computer science field, including basic computer programming concept, object oriented programming, algorithms, etc. As a result, you will learn how to do basic computer programming and how to develop an independent project. Along the way we will also touch on how programming languages are designed, programming language semantics, and why there are so many different kinds of programming languages.  
 
 The course lectures will be presented offline(current) and online(to be added). To help you master the material, there will be in-lecture questions to answer, quizzes. There will also be homework in the form of exercises that ask you to show a sequence of logical steps needed to derive a specific result.  
 
-The programming language we mainly uses is Java. The advanced course would contains Kotlin and other languages.  
+The programming language we mainly use is Java. The advanced courses would contain Kotlin and other languages.  
 
 ## WHY STUDY COMPUTER SCIENCE
 Everything in our life nowadays has something to do with computer. When you are writing a document, you are using the computer software. When you are watching videos on your phone, you are using Android or IOS apps. Apparently, we cannot live without computer technologies. In order to find something deep inside the computer, you need to learn how computer works and how developers design them.
@@ -21,7 +21,7 @@ No prerequisites are needed for this course.
 
 ## COURSE STAFF
 Andy Li  
-High school student at Chengdu No.7 High School. Programming experience for four years. Familiar to OOP, algorithms, and many other fields. Acting leader of GreatChina computer sicence club. See more on [EULIR](https://eulir.github.io/about/)  
+High school student at Chengdu No.7 High School. Programming experience for four years. Familiar with OOP, algorithms, and many other fields. Acting leader of GreatChina computer sicence club. See more on [EULIR](https://eulir.github.io/about/)  
 
 ## COURSE CATALOGUE
  [Computer Science Club curriculum](https://github.com/EULIR/Computer-Science-Club-curriculum)

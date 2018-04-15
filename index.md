@@ -3,14 +3,14 @@ layout: default
 ---
 ![img](http://img2.ph.126.net/vqiNHd7ODCMVWOOgNRopTA==/6608226511145252294.jpg)
 ## ABOUT THIS COURSE
-This self-paced course will discuss the major ideas used today in the junior computer science field, including basic computer programming concept, object oriented programming, algorithms, etc. As a result, you will learn how to do basic computer programming and how to develop an independent project. Along the way we will also touch on how programming languages are designed, programming language semantics, and why there are so many different kinds of programming languages.  
+This self-paced course will discuss the major ideas used today in the junior computer science field, including **basic computer programming concepts**, **object oriented programming**, **algorithms**, etc. As a result, you will learn how to do basic computer programming and how to develop an independent project. Along the way we will also touch on how programming languages are designed, programming language semantics, and why there are so many different kinds of programming languages.  
 
-The course lectures will be presented offline(current) and online(to be added). To help you master the material, there will be in-lecture questions to answer, quizzes. There will also be homework in the form of exercises that ask you to show a sequence of logical steps needed to derive a specific result.  
+The course lectures will be presented offline (current) and online (to be added). To help you master the material, there will be in-lecture questions to answer and quizzes. There will also be homework in the form of exercises that ask you to show a sequence of logical steps needed to derive a specific result.  
 
 The programming language we mainly use is Java. The advanced courses would contain Kotlin and other languages.  
 
 ## WHY STUDY COMPUTER SCIENCE
-Everything in our life nowadays has something to do with computer. When you are writing a document, you are using the computer software. When you are watching videos on your phone, you are using Android or IOS apps. Apparently, we cannot live without computer technologies. In order to find something deep inside the computer, you need to learn how computer works and how developers design them.
+Everything in our life nowadays has something to do with computing. When you are writing a document, you are using computer software. When you are watching videos on your phone, you are using Android or iOS apps. Apparently, we cannot live without computer technologies. In order to find something deep inside the computer, you need to learn how computers work and how developers design them.
 
 Everything that computers do is the result of some program, and all of the millions of programs in the world are written in one of the many thousands of programming languages that have been developed over the last 60 years.
 
@@ -44,5 +44,5 @@ High school student at Chengdu No.7 High School. Programming experience for four
 You are supposed to [mail me](mailto:eulir_cs@163.com) and register your infomation if you are new to this club.
 
 ## LICENSE
-EULIR/Computer-Science-Club-curriculum is licensed under the  
-[MIT License](https://github.com/EULIR/Computer-Science-Club-curriculum/blob/master/LICENSE)
+GreatChina-ComputerScienceClub/Curriculum is licensed under the  
+[MIT License](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/LICENSE)

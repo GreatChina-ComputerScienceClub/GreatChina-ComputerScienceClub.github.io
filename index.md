@@ -23,7 +23,7 @@ No prerequisites are needed for this course.
 Sean Huang  
 High school student at Chengdu Jiaxiang foreign language school. Going to study in UC Berkely this fall. Familiar with Artificial intelligence, machine learning, wordpress, and Netease Cloud Music API. Co-founder of GreatChina Computer Science Club. See more on [Godfather](http://zehaohuang.cn/) 
 
-Andy Li   
+Andy Li      
 High school student at Chengdu No.7 High School. Programming experience for four years. Familiar with OOP, algorithms, and many other fields. Acting leader of GreatChina computer sicence club. See more on [EULIR](https://eulir.github.io/about/)  
 
 Fred Jiang  

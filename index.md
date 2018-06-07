@@ -53,7 +53,7 @@ High school student at Chengdu Shishi High School. Website experiecnce for half 
    - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/HTML/HTML.zip?raw=true)
    
  - [Bitwise Operation](https://github.com/GreatChina-ComputerScienceClub/Curriculum/tree/master/Bitwise%20Operation) Introduction to bitwise operation 
-   - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/Bitwise%20Operation/Bitwise%20Operation.zip?raw=true)
+   - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/raw/master/Bitwise%20Operation/bitwise%20operation.zip)
 
 ## HOW TO ENROLL
 You are supposed to [mail me](mailto:eulir_cs@163.com) and register your infomation if you are new to this club.

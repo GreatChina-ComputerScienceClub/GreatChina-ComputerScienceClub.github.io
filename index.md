@@ -49,8 +49,11 @@ High school student at Chengdu Shishi High School. Website experiecnce for half 
  - [Basic Structure](https://github.com/GreatChina-ComputerScienceClub/Curriculum/tree/master/Basic%20Structure) Three basic structure course
    - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/Basic%20Structure/Basic%20Structure.zip?raw=true)
    
- - [HTML](https://github.com/GreatChina-ComputerScienceClub/Curriculum/tree/master/HTML) first lessoon of website design  
+ - [HTML](https://github.com/GreatChina-ComputerScienceClub/Curriculum/tree/master/HTML) First lesson of website design  
    - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/HTML/HTML.zip?raw=true)
+   
+ - [Bitwise Operation](https://github.com/GreatChina-ComputerScienceClub/Curriculum/tree/master/Bitwise%20Operation) Introduction to bitwise operation 
+   - [DOWNLOAD](https://github.com/GreatChina-ComputerScienceClub/Curriculum/blob/master/Bitwise%20Operation/Bitwise%20Operation.zip?raw=true)
 
 ## HOW TO ENROLL
 You are supposed to [mail me](mailto:eulir_cs@163.com) and register your infomation if you are new to this club.
